@@ -1,5 +1,3 @@
-# azure-setup
-
 <p align="center">
 <img src="https://i.imgur.com/6x4HCi7.png" alt="Microsoft Azure logo"/>
 </p>
