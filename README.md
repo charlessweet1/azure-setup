@@ -11,9 +11,8 @@ This tutorial outlines setting up the Microsoft Azure environment for (Windows/L
 - <b> Microsoft Azure (Virtual Machines/Compute)</b>
 
 <h2>Operating Systems Used </h2>
-<b>
 - Windows 10 Pro, version 22H2 - x64 Gen2
-- Linux Ubuntu Server 22.04 LTS - x64 Gen2</b>
+- Linux Ubuntu Server 22.04 LTS - x64 Gen2
 
 <h2>List of Prerequisites</h2>
 
@@ -24,6 +23,8 @@ This tutorial outlines setting up the Microsoft Azure environment for (Windows/L
 - Item 5
 
 <h2>Installation Steps</h2>
+
+<h3>Windows Virtual Machine</h3>
 
 <p>
 <img src="https://i.imgur.com/nSMJBRQ.png" height="80%" width="80%" alt="Logging into Microsoft Azure"/>
@@ -53,7 +54,7 @@ Click Review+Create.
 
 </p>
 <p>
-<img src="https://imgur.com/a/zHTHMDN.png" height="80%" width="80%" alt="Create Windows 10 virtual machine"/>
+<img src="https://i.imgur.com/kZNi51G.png" height="80%" width="80%" alt="Validating deployment"/>
 </p>
 
 <p>
@@ -63,16 +64,15 @@ Click Review+Create.
 </p>
 
 <p>
-<img src="https://i.imgur.com/Wp9Jmm5.png" height="80%" width="80%" alt="Create Windows 10 virtual machine"/>
+<img src="https://imgur.com/nuOnEk5" height="80%" width="80%" alt="Completing Windows VM creation"/>
 </p>
+
 
 <p>
-Step 4: If you get an error screen, go back and correct the red-highlighted areas. Once validated, click Create to deploy the Windows 10 virtual machine.   
-
-Click Review+Create. 
+The Windows virtual machine has been successfully deployed!
 </p>
 
-</p>
+
 
 
 <br />
