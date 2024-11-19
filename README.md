@@ -8,11 +8,13 @@ This tutorial outlines setting up the Microsoft Azure environment for (Windows/L
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+<b>- Microsoft Azure (Virtual Machines/Compute)</b>
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+<b>- Windows 10 Pro, version 22H2 - x64 Gen2
+</b> 
+<b>- Linux Ubuntu Server 22.04 LTS - x64 Gen2</b>
 
 <h2>List of Prerequisites</h2>
 
