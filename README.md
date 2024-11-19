@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/6x4HCi7.png" alt="Microsoft Azure logo"/>
 </p>
 
-<h1>Microsoft Azure - Setup & Configuring Virtual Machines</h1>
+<h1>Microsoft Azure - Setup & Deploying Virtual Machines</h1>
 This tutorial outlines setting up the Microsoft Azure environment for (Windows/Linux) virtual machines. <br />
 
 <h2>Environments and Technologies Used</h2>
