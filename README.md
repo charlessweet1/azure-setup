@@ -69,7 +69,7 @@ Click Review+Create.
 The Windows virtual machine has been successfully deployed!
 </p>
 
-<h2>Linux Virtual MAchine Installation Steps</h2>
+<h2>Linux Virtual Machine Installation Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/nSMJBRQ.png" height="80%" width="80%" alt="Logging into Microsoft Azure"/>
