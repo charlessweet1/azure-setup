@@ -18,10 +18,10 @@ This tutorial outlines setting up the Microsoft Azure environment for (Windows/L
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
+- Step 1: Log into the Azure portal
+- Step 2: Create a resource group
+- Step 3: Setup the Windows 10 virtual machine 
+- Item 4: Setup the Linux virtual machine
 - Item 5
 
 <h2>Installation Steps</h2>
@@ -46,6 +46,6 @@ Step 2: Within the Azure portal, create a resource group. This will be used to s
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 3: Create a Windows 10 virtual machine. Ensure that the subscription, resource group, and region options match the resource group you will be using. Choose Windows 10 Pro 22H2. The VM architecture should be x64. Your VM size should be at least 2 vcpus to ensure smooth operation. Check the box at the bottom to confirm that you have an eligble Windows 10/11 license.   
 </p>
 <br />
