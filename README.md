@@ -104,7 +104,7 @@ Click Review+Create.
 </p>
 
 <p>
-<img src="https://i.imgur.com/nuOnEk5.png" height="80%" width="80%" alt="Completing Windows VM creation"/>
+<img src="https://i.imgur.com/0pUbRUD.png" height="80%" width="80%" alt="Completing Windows VM creation"/>
 </p>
 
 
