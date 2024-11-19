@@ -49,5 +49,29 @@ Step 2: Within the Azure portal, create a resource group. This will be used to s
 Step 3: Create a Windows 10 virtual machine. Ensure that the subscription, resource group, and region options match the resource group you will be using. 
 
 Choose Windows 10 Pro 22H2. The VM architecture should be x64. Your VM size should be at least 2 vcpus to ensure smooth operation. Check the box at the bottom to confirm that you have an eligble Windows 10/11 license.   
+
+Click Review+Create. 
+
 </p>
+<p>
+<img src="https://imgur.com/a/zHTHMDN" height="80%" width="80%" alt="Create Windows 10 virtual machine"/>
+</p>
+<p>
+If you get an error screen, go back and correct the red-highlighted areas. Once validated, click Create to deploy the Windows 10 virtual machine.   
+
+Click Review+Create. 
+</p>
+
+<p>
+<img src="https://i.imgur.com/HmP8gjj.png" height="80%" width="80%" alt="Create Windows 10 virtual machine"/>
+</p>
+<p>
+Step 4: If you get an error screen, go back and correct the red-highlighted areas. Once validated, click Create to deploy the Windows 10 virtual machine.   
+
+Click Review+Create. 
+</p>
+
+</p>
+
+
 <br />
