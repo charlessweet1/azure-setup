@@ -64,8 +64,9 @@ Click Review+Create.
 </p>
 
 <p>
-<img src="https://i.imgur.com/HmP8gjj.png" height="80%" width="80%" alt="Create Windows 10 virtual machine"/>
+<img src="https://i.imgur.com/Wp9Jmm5.png" height="80%" width="80%" alt="Create Windows 10 virtual machine"/>
 </p>
+
 <p>
 Step 4: If you get an error screen, go back and correct the red-highlighted areas. Once validated, click Create to deploy the Windows 10 virtual machine.   
 
