@@ -3,7 +3,10 @@
 </p>
 
 <h1>Microsoft Azure - Setup & Deploying Virtual Machines</h1>
-This tutorial outlines setting up the Microsoft Azure environment for (Windows/Linux) virtual machines. <br />
+In this tutorial, we will be setting up a resource group and instances of Windows and Linux virtual machines. 
+
+setting up the Microsoft Azure environment for (Windows/Linux) virtual machines. 
+<br />
 
 <h2>Environments and Technologies Used</h2>
 
