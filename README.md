@@ -17,13 +17,19 @@ setting up the Microsoft Azure environment for (Windows/Linux) virtual machines.
 - Windows 10 Pro, version 22H2 - x64 Gen2
 - Linux Ubuntu Server 22.04 LTS - x64 Gen2
 
+<h2>High-Level Steps</h2>
+
+- Step 1: Log into the Azure portal
+- Step 2: Create a resource group
+- Step 3: Create a Windows / Linux virtual machine 
+
 <h2>Windows Virtual Machine Installation Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/nSMJBRQ.png" height="80%" width="80%" alt="Logging into Microsoft Azure"/>
 </p>
 <p>
-Step 1: Log into the Azure Portal. 
+Step 1: Log into the Azure portal. 
 </p>
 <br />
 
